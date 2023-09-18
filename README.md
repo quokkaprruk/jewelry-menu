@@ -1,2 +1,2 @@
 # jewelry-menu
-# Coursework Web Assignment
+Coursework Web Assignment
